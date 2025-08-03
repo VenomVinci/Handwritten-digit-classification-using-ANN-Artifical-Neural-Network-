@@ -1,7 +1,3 @@
-Got it! Here’s a professional, technical README tailored for your handwritten digit classifier built with an **Artificial Neural Network (ANN)** (not CNN):
-
----
-
 # Handwritten Digit Classification using ANN on MNIST Dataset
 
 This project implements a fully connected Artificial Neural Network (ANN) for classifying handwritten digits from the MNIST dataset. The model achieves approximately **97% accuracy** on the test set, showcasing the effectiveness of ANN on this classic image classification task.
